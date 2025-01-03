@@ -1,5 +1,7 @@
 *.log
+*.ini
+*.dat
+node_modules/
 __pycache__/
-NTUSER.*
-Desktop.ini
-.*/
+*.DS_Store
+
